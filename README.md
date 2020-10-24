@@ -1,5 +1,5 @@
 ###  Time_Series Data Forecasting (END TO END)
-This is my take on Time Series Data. Taking Sunspot data, I have tried to explain every step involved and links are provided for further study.Code links for Sunspot data analysis:
+This is my take on Time Series Data. Taking Sunspot data, I have tried to explain every step involved and links are provided for further study.
 Concept covered:
 1) Time series Exploratory Analysis
 2) Concepts of different Averages used for approximating TS
